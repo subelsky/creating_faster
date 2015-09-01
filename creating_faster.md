@@ -58,11 +58,11 @@ bucket.objects({
 
 * Tab-completion
 * Ack (and cousins)
-* Bash command-line navigation
+* Bash command-line (Ctrl-A/Ctrl-E/!!)
 * Learn one new shortcut per day
     * Sticky note
 * iTerm tabs and windows (one project per tab)
-* Make it easy to add aliases
+* Make it easy to add aliases (ea command)
 
 ---
 
@@ -141,11 +141,45 @@ r   # rake
 
 ---
 
+# General Productivity Hacks
+
+![inline](./images/things_example.png)
+
+---
+
+# General Productivity Hacks
+
 * Weekly review
-* Spark file
 * FancyHands
 * "Do a little bit every day"
 * Favor long-form social media
     * Blogs
     * Newsletters
     * Podcasts
+
+---
+
+# General Productivity Hacks
+## Spark File
+
+![inline](./images/spark_file_example.png)
+
+## [More Details](https://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58)
+
+---
+
+# My number one super productivity hack...
+
+---
+
+# RELENTLESS COMMITTMENT TO GETTING BETTER, FASTER, STRONGER EVERY DAY
+
+---
+
+# [fit] Questions?
+
+---
+
+# Work with us!
+# [fit] programmerswanted@staq.com
+
