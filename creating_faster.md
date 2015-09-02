@@ -9,6 +9,7 @@ By Mike Subelsky (@subelsky)
 * Write lots of tests at all levels of granularity
 * Many small classes, few private methods, few class methods
 * Local git overrides
+* Use snippets
 * Outside-in / BDD
 * Coding spikes
 
@@ -129,6 +130,12 @@ r   # rake
 
 ---
 
+# OS X Apps/hacks
+
+* iTerm2
+* Alfred.app
+* Things
+
 # General Productivity Hacks
 
 * Saying No
@@ -137,7 +144,6 @@ r   # rake
 * GTD
     Breaking down a project into super small tasks
     Putting different contexts on projects
-* Things app
 
 ---
 
