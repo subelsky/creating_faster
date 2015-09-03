@@ -8,8 +8,10 @@ By Mike Subelsky (@subelsky)
 * Write clean / modular code
 * Write lots of tests at all levels of granularity
 * Many small classes, few private methods, few class methods
+    * Rule of thumb: 1 screen or less
 * Local git overrides
-* Use snippets
+* Use [snippets](https://github.com/honza/vim-snippets/blob/master/UltiSnips/ruby.snippets)
+* [Syntastic](https://github.com/scrooloose/syntastic)
 * Outside-in / BDD
 * Coding spikes
 
@@ -64,6 +66,8 @@ bucket.objects({
     * Sticky note
 * iTerm tabs and windows (one project per tab)
 * Make it easy to add aliases (ea command)
+* "sd" alias
+    * `alias sd='terminal-notifier -message "it is done: ${PWD##*/}"'`
 
 ---
 
