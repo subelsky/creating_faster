@@ -1,6 +1,14 @@
+slidenumbers: true
+
 # Going Faster:
 # Productive Programming Tips
 By Mike Subelsky (@subelsky)
+
+
+
+
+
+[subelsky/creating_faster](https://github.com/subelsky/creating_faster)
 
 ---
 # Coding Speed
@@ -11,6 +19,10 @@ By Mike Subelsky (@subelsky)
     * Rule of thumb: 1 screen or less
 * Local git overrides
 * Use [snippets](https://github.com/honza/vim-snippets/blob/master/UltiSnips/ruby.snippets)
+
+---
+# Coding Speed
+
 * [Syntastic](https://github.com/scrooloose/syntastic)
 * Outside-in / BDD
 * Coding spikes
@@ -57,16 +69,28 @@ bucket.objects({
 ```
 ---
 
+# Terminal speed
+
+* One project per tab
+* 9 windows per tab
+
+---
+
 # Command-line Speed
 
 * Tab-completion
 * Ack (and cousins)
-* Bash command-line (Ctrl-A/Ctrl-E/!!)
+* Bash command-line (Ctrl-A/Ctrl-E/Ctrl-R/!!)
 * Learn one new shortcut per day
     * Sticky note
-* iTerm tabs and windows (one project per tab)
-* Make it easy to add aliases (ea command)
-* "sd" alias
+
+---
+
+# Command-line Speed
+
+* Make it easy to add aliases
+  * `alias ea='vim -f ~/Dropbox/dotfiles/bash/aliases && source ~/Dropbox/dotfiles/bash/aliases'`
+* Get notified when something finishes
     * `alias sd='terminal-notifier -message "it is done: ${PWD##*/}"'`
 
 ---
@@ -140,14 +164,16 @@ r   # rake
 * Alfred.app
 * Things
 
+---
+
 # General Productivity Hacks
 
 * Saying No
 * Strunk and White
 * Inbox Zero
 * GTD
-    Breaking down a project into super small tasks
-    Putting different contexts on projects
+    * Breaking down a project into super small tasks
+    * Putting different contexts on projects
 
 ---
 
@@ -163,8 +189,7 @@ r   # rake
 * FancyHands
 * "Do a little bit every day"
 * Favor long-form social media
-    * Blogs
-    * Newsletters
+    * Blogs / newsletters
     * Podcasts
 
 ---
